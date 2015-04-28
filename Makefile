@@ -7,8 +7,6 @@ APP="/Applications/Install OS X Yosemite.app"
 OUTPUT=~/Desktop
 NBI="Imagr"
 
--include config.mk
-
 #################################################
 
 
